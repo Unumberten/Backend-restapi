@@ -8,6 +8,7 @@ Status on CI/CD:
 
 
 ## Getting Started
+create a .env file with DBHOST, PORT, TOKEN_SECRET, JWT_EXPIRES_IN.
 
 First, run the development server:
 
